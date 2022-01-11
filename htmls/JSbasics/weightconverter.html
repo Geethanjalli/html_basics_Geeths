@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<title>Pounds to Kilograms or Kilograms to Pounds Weight Converter</title>
+<body>
+
+<h2>Weight Converter</h2>
+<p>Type a value in the Pounds field to convert the value to Kilograms:</p>
+
+<p>
+  <label>Pounds</label>
+  <input id="inputPounds" type="number" placeholder="Pounds" oninput="weightConverterKg(this.value)" onchange="weightConverterKg(this.value)">
+</p>
+<p>Kilograms: <span id="outputKilograms"></span></p>
+<p>Type a value in the Kilograms field to convert the value to Pounds:</p>
+<p>
+  <label>Kilograms</label>
+  <input id="inputKilograms" type="number" placeholder="Kilograms" oninput="weightConverterLb(this.value)" onchange="weightConverterLb(this.value)">
+</p>
+<p>Pounds: <span id="outputPounds"></span></p>
+
+<script>
+function weightConverterKg(valNum) {
+  document.getElementById("outputKilograms").innerHTML=valNum/2.2046;
+}
+function weightConverterLb(valNum) {
+  document.getElementById("outputPounds").innerHTML=valNum*2.2046;
+}
+</script>
+
+</body>
+</html>
