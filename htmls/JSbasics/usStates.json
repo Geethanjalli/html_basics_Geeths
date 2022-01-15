@@ -3,111 +3,111 @@
         "state":"MN",
         "electrolVote": "10",
         "popularVote": "14,277,157",
-        "termLimit": "",
-        "employmentRate":"11/11/1988",
-        "employementRateMale":"11/11/1988",
+        "termLimit": "678963",
+        "employmentRate":"5678946",
+        "employementRateMale":"644,050,857",
         "employmentRateFemale": "14,896,625",
-        "unemploymentRate":"",
-        "rightToWorkState":""
+        "unemploymentRate":"7643098",
+        "rightToWorkState":"8642134"
 
     },
     {
         "state":"PA",
         "electrolVote": "20",
         "popularVote": "14,277,157",
-        "termLimit": "",
-        "employmentRate":"11/11/1988",
-        "employementRateMale":"11/11/1988",
+        "termLimit": "567900",
+        "employmentRate":"64748940",
+        "employementRateMale":"7390204875",
         "employmentRateFemale": "14,896,625",
-        "unemploymentRate":"",
-        "rightToWorkState":""
+        "unemploymentRate":"8767437848909",
+        "rightToWorkState":"89327856"
     },
     {
         "state":"RI",
         "electrolVote": "4",
         "popularVote": "14,277,157",
-        "termLimit": "",
-        "employmentRate":"11/11/1988",
-        "employementRateMale":"11/11/1988",
+        "termLimit": "63990",
+        "employmentRate":"649404028326",
+        "employementRateMale":"17,984,057",
         "employmentRateFemale": "14,896,625",
-        "unemploymentRate":"",
-        "rightToWorkState":""
+        "unemploymentRate":"6378390202",
+        "rightToWorkState":"71090329476"
     },
     {
         "state":"SC",
         "electrolVote": "9",
         "popularVote": "14,277,157",
-        "termLimit": "",
-        "employmentRate":"11/11/1988",
-        "employementRateMale":"11/11/1988",
+        "termLimit": "7393003",
+        "employmentRate":"782893202393",
+        "employementRateMale":"13,634,536",
         "employmentRateFemale": "14,896,625",
-        "unemploymentRate":"",
-        "rightToWorkState":""
+        "unemploymentRate":"12,456,876",
+        "rightToWorkState":"5363900"
     },
     {
         "state":"SD",
         "electrolVote": "3",
         "popularVote": "14,277,157",
-        "termLimit": "",
-        "employmentRate":"11/11/1988",
-        "employementRateMale":"11/11/1988",
+        "termLimit": "67484903",
+        "employmentRate":"1637299",
+        "employementRateMale":"16379022",
         "employmentRateFemale": "14,896,625",
-        "unemploymentRate":"",        
-        "rightToWorkState":""
+        "unemploymentRate":"7839202847",        
+        "rightToWorkState":"5479202"
     },
     {
         "state":"TN",
         "electrolVote": "11",
         "popularVote": "14,277,157",
-        "termLimit": "",
-        "employmentRate":"11/11/1988",
-        "employementRateMale":"11/11/1988",
+        "termLimit": "64839202",
+        "employmentRate":"5483920293",
+        "employementRateMale":"167206802",
         "employmentRateFemale": "14,896,625",
-        "unemploymentRate":"",        
-        "rightToWorkState":""
+        "unemploymentRate":"67480207354728",        
+        "rightToWorkState":"6748302027993"
     },
     {
         "state":"TX",
         "electrolVote": "38",
         "popularVote": "14,277,157",
-        "termLimit": "",
-        "employmentRate":"11/11/1988",
-        "employementRateMale":"11/11/1988",
+        "termLimit": "678920304477",
+        "employmentRate":"167902049640",
+        "employementRateMale":"16793046890",
         "employmentRateFemale": "14,896,625",
-        "unemploymentRate":"",        
-        "rightToWorkState":""
+        "unemploymentRate":"6478056839036",        
+        "rightToWorkState":"6790517289"
     },
     {
         "state":"UT",
         "electrolVote": "6",
         "popularVote": "14,277,157",
-        "termLimit": "",
-        "employmentRate":"11/11/1988",
-        "employementRateMale":"11/11/1988",
-        "employmentRateFemale": "14,896,625",
-        "unemploymentRate":"",        
-        "rightToWorkState":""
+        "termLimit": "789039",
+        "employmentRate":"157902736",
+        "employementRateMale":"157903025",
+        "employmentRateFemale": "1468203936",
+        "unemploymentRate":"6579039933",        
+        "rightToWorkState":"648930373663"
     },
     {
         "state":"VA",
         "electrolVote": "13",
         "popularVote": "14,277,157",
-        "termLimit": "",
-        "employmentRate":"11/11/1988",
-        "employementRateMale":"11/11/1988",
+        "termLimit": "67907993",
+        "employmentRate":"16829004",
+        "employementRateMale":"16379200",
         "employmentRateFemale": "14,896,625",
-        "unemploymentRate":"",        
-        "rightToWorkState":""
+        "unemploymentRate":"68900448",        
+        "rightToWorkState":"7820209"
     },
     {
         "state":"VT",
         "electrolVote": "3",
         "popularVote": "14,277,157",
-        "termLimit": "",
-        "employmentRate":"11/11/1988",
-        "employementRateMale":"11/11/1988",
+        "termLimit": "547840",
+        "employmentRate":"16820489790",
+        "employementRateMale":"11680494748",
         "employmentRateFemale": "14,896,625",
-        "unemploymentRate":"",        
-        "rightToWorkState":""
+        "unemploymentRate":"8846465849",        
+        "rightToWorkState":"64789578948"
     }
-]
+]   
